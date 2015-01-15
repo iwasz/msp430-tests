@@ -1,0 +1,13 @@
+===What it is===
+Nothing special, just my simple tests.
+
+===So why those huge headings?===
+Just trying out the mediawiki format. I am used to this.
+
+* Will it work,
+* after
+** I commit
+*** This?
+
+;1:one
+;2:two
