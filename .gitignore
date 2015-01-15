@@ -10,3 +10,4 @@ build/msp430-cpu-gauge.elf
 build/generate.py~
 .settings/
 build/msp430-first.elf
+msp430-test.elf
