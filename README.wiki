@@ -11,3 +11,6 @@ Just trying out the mediawiki format. I am used to this.
 
 ;1:one
 ;2:two
+
+<math>a^2 = \frac{A_z}{B_x}</math>
+
